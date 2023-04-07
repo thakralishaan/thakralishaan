@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **thakralishaan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uUPk13zIVwTsTyCg-aK7VWs0IFQd45gc/view](https://drive.google.com/file/d/1iyUQ7xM8np3cIpX3CBb6q4PK73-yPgi2/view)
+- 📄 Know about my experiences https://flowcv.com/resume/d0oqe8el6p
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
