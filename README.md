@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thakralishaan&label=Profile%20views&color=222a30&style=plastic" alt="thakralishaan" /> </p>
 
-- 🔭 I’m currently working on **hostelDashboard**
+- 🔭 I’m currently working on **Ed-Tech Platform**
 
-- 🌱 I’m currently learning **JS,REACT,NODEJS**
+- 🌱 I’m currently learning **NextJs, NodeJs**
 
-- 💬 Ask me about **JS,REACT**
+- 💬 Ask me about **Javascript & ReactJs**
 
 - 📫 How to reach me **thakralishaan@gmail.com**
 
